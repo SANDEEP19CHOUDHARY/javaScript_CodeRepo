@@ -46,3 +46,6 @@ Object.seal(obj)	            Allows modification but prevents addition/deletion
 Object.hasOwnProperty(key)	    Checks if key exists
 Object.getPrototypeOf(obj)	    Gets the prototype of an object
 */
+
+
+
